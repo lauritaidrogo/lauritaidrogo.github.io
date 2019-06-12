@@ -1,0 +1,124 @@
+body {
+    background: blanchedalmond;
+    width: 70%;
+    margin: auto;
+}
+
+.head_1 h1,
+.head_1 img {
+    display: inline;
+    font-family: cursive;
+}
+
+.head_2 h2,
+.head_2 .a {
+    display: inline;
+}
+
+.head_2 h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: grey;
+}
+
+.a {
+    float: right;
+}
+
+.a a {
+    text-decoration: none;
+    margin: 5px;
+    font-size: 20px;
+    color: black;
+}
+
+.separador img {
+    margin: 0 auto;
+    width: 100%;
+    height: 2px;
+}
+
+.head_3 {
+    margin-top: 10px;
+    position: relative;
+}
+
+.head_3 img {
+    width: 100%;
+    height: 100%;
+}
+
+.text_imagen {
+    background: rgba(0, 0, 0, .4);
+    padding: 10px;
+    bottom: 40px;
+    position: relative;
+}
+
+.head_3 p,
+.head_3 a {
+    display: inline;
+    color: white;
+    text-decoration: none;
+}
+
+.head_3 a {
+    float: right;
+}
+
+.contenido_1 img,
+.contenido_1 h2 {
+    display: inline;
+}
+
+.contenido_1 {
+    width: 70%;
+    float: left;
+}
+
+.contenido_2 {
+    background-color: gray;
+    width: 30%;
+    float: left;
+}
+
+.contenido_2 .img_principal {
+    display: block;
+    margin: 0 auto;
+}
+
+.contenido_2 .img_redes {
+    display: block;
+    margin: auto;
+}
+
+.contenido_2 p {
+    padding: 5px;
+    text-align: justify;
+}
+
+.footer {
+    clear: both;
+}
+
+.footer_1,
+.footer_2,
+.footer_3 {
+    width: 33%;
+    float: left;
+}
+
+.footer_3 ul {
+    float: left;
+}
+
+.separador_2 img {
+    margin: 0 auto;
+    width: 100%;
+    height: 2px;
+}
+
+.separador_3 img {
+    display: block;
+    margin: auto;
+}
